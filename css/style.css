@@ -1928,6 +1928,7 @@ margin-bottom:20px;
 #aboutUs h3{
 font-size:26px;
 line-height:22px;
+text-align: center;
 }
 .service_block h3 { 
 font-size: 16px;
@@ -2048,13 +2049,13 @@ display:none;
 @media (max-width: 768px){
     #aboutUs img {
     margin-bottom: 20px;
-    margin-left: 40px;
+    margin-left: 70px;
 }
 }
 @media (max-width: 768px){
     .header_name {
     font-size: 3rem;
-    margin-left: 50px;
+    margin-left: 80px;
     padding-top: 50px;
 }
 }
